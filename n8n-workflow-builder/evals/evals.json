@@ -1,0 +1,23 @@
+{
+  "skill_name": "n8n-workflow-builder",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I want to build an n8n workflow that listens for a webhook from Stripe (payment succeeded events) and sends a Slack message to #payments channel with the customer name and amount. I already have Slack credentials set up in n8n.",
+      "expected_output": "A complete workflow with: Webhook trigger node, IF node to filter for payment.succeeded events, Slack node sending to #payments with expression-based customer name and amount from $json.body, validation run, and the workflow activated. Should correctly use $json.body.data.object.customer for Stripe webhook data, not $json.customer.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Can you make an n8n workflow that runs every morning at 8am, fetches the top 5 posts from the Hacker News API, and emails me a summary? My email is test@example.com.",
+      "expected_output": "Workflow with Schedule Trigger (cron: 0 8 * * *), HTTP Request node fetching HN API, Code node to format top 5, Email/Gmail node sending to test@example.com. Should guide user on email credentials if not set up.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I need an AI agent workflow in n8n that can answer questions about my company. It should use Claude as the LLM and have a tool that can do web searches.",
+      "expected_output": "AI Agent workflow with: Chat Trigger or Webhook trigger, AI Agent node (toolsAgent type), Anthropic Chat Model connected via ai_languageModel, SerpAPI or similar search tool connected via ai_tool. Correct AI connection types used. Validation passes.",
+      "files": []
+    }
+  ]
+}
