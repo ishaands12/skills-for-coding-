@@ -1,0 +1,94 @@
+2026-03-28 12:12:32 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:12:54 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:12:54 - INFO - Notification sent: ishaan - Permission Required
+2026-03-28 12:12:54 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:13:56 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude Code needs your attention'
+2026-03-28 12:13:56 - INFO - Notification sent: ishaan - Notification
+2026-03-28 12:13:56 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Notification
+2026-03-28 12:19:11 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:19:11 - INFO - Notification sent: ishaan - Permission Required
+2026-03-28 12:19:11 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:20:48 - INFO - Notification sent: ishaan - job#1 done, duration: 8m16s
+2026-03-28 12:20:48 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#1, duration: 8m16s
+2026-03-28 12:21:01 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:21:39 - INFO - Notification sent: ishaan - job#2 done, duration: 38s
+2026-03-28 12:21:39 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#2, duration: 38s
+2026-03-28 12:21:48 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:22:04 - INFO - Notification sent: ishaan - job#3 done, duration: 15s
+2026-03-28 12:22:04 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#3, duration: 15s
+2026-03-28 12:22:33 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:22:40 - INFO - Notification sent: ishaan - job#4 done, duration: 7s
+2026-03-28 12:22:40 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#4, duration: 7s
+2026-03-28 12:23:03 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:23:15 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:23:15 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:23:15 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:23:31 - INFO - Notification sent: ishaan - job#5 done, duration: 28s
+2026-03-28 12:23:31 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#5, duration: 28s
+2026-03-28 12:24:40 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:24:59 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:24:59 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:24:59 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:25:57 - INFO - Notification sent: Downloads - job#6 done, duration: 1m17s
+2026-03-28 12:25:57 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#6, duration: 1m17s
+2026-03-28 12:26:58 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude is waiting for your input'
+2026-03-28 12:26:58 - INFO - Updated lastWaitUserAt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:26:58 - INFO - Notification suppressed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Waiting for input
+2026-03-28 12:30:30 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:31:01 - INFO - Notification sent: Downloads - job#7 done, duration: 31s
+2026-03-28 12:31:01 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#7, duration: 31s
+2026-03-28 12:31:38 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:32:03 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:32:03 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:32:03 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:35:01 - INFO - Notification sent: Downloads - job#8 done, duration: 3m23s
+2026-03-28 12:35:01 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#8, duration: 3m23s
+2026-03-28 12:35:01 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:35:03 - INFO - Notification sent: Downloads - job#9 done, duration: 2s
+2026-03-28 12:35:03 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#9, duration: 2s
+2026-03-28 12:36:11 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:36:31 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:36:32 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:36:32 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:36:39 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:36:39 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:36:39 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:39:18 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:39:19 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:39:19 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:39:48 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:39:48 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:39:48 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:40:22 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:40:22 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:40:22 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:44:23 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:44:24 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:44:24 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:44:27 - INFO - Recorded prompt for session 97ff9425-e6e4-4df0-8b93-e9698741d645
+2026-03-28 12:44:28 - INFO - Notification sent: ishaan - job#1 done, duration: 1s
+2026-03-28 12:44:28 - INFO - Task completed for session 97ff9425-e6e4-4df0-8b93-e9698741d645, job#1, duration: 1s
+2026-03-28 12:44:54 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:44:54 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:44:54 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:45:19 - INFO - Recorded prompt for session 97ff9425-e6e4-4df0-8b93-e9698741d645
+2026-03-28 12:45:26 - INFO - Notification sent: ishaan - job#2 done, duration: 7s
+2026-03-28 12:45:26 - INFO - Task completed for session 97ff9425-e6e4-4df0-8b93-e9698741d645, job#2, duration: 7s
+2026-03-28 12:47:55 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:47:55 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:47:55 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:50:19 - INFO - Notification sent: Downloads - job#10 done, duration: 14m8s
+2026-03-28 12:50:19 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#10, duration: 14m8s
+2026-03-28 12:51:54 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:54:01 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:54:01 - INFO - Notification sent: Downloads - Permission Required
+2026-03-28 12:54:01 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:54:46 - INFO - Notification sent: Downloads - job#11 done, duration: 2m52s
+2026-03-28 12:54:46 - INFO - Task completed for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a, job#11, duration: 2m52s
+2026-03-28 12:55:09 - INFO - Recorded prompt for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a
+2026-03-28 12:56:41 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:56:41 - INFO - Notification sent: ishaan - Permission Required
+2026-03-28 12:56:41 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
+2026-03-28 12:56:56 - INFO - [NOTIFICATION] session=6f382afc-e5a9-4b43-ba34-8a71d4f3904a, message='Claude needs your permission to use Bash'
+2026-03-28 12:56:56 - INFO - Notification sent: ishaan - Permission Required
+2026-03-28 12:56:56 - INFO - Notification sent for session 6f382afc-e5a9-4b43-ba34-8a71d4f3904a: Permission Required
